@@ -1,0 +1,2 @@
+# SQLQueriesExercise
+SQL Queries exercise
